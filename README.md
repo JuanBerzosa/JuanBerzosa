@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@JuanBerzosa**
 - 👀 I’m interested in **Angular** framework.
-- 🌱 I’m currently learning Angular testing.
+- 🌱 I’m currently learning about implementing **microfrontends** using Angular.
 - 💞️ I’m looking to collaborate on to collaborate on with a projects whose front end is based on angular and I am interested in its business logic, 
 where I can continue to develop myself contributing to the project.
 - 📫 How to reach me : By mail, at jbcorreocontacto@gmail.com
